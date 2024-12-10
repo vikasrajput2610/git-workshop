@@ -1,2 +1,2 @@
 console.log("belongs to new-feature")
-console.log("now changing for the merge")
+console.log("now changing for the merge into dev")
